@@ -17,6 +17,13 @@ Ce repository contient trois exercices :
 3. **Compteur de Clics**
    - Un bouton qui compte le nombre de clics et affiche le résultat en temps réel.
    - Technologies utilisées : HTML, CSS, JavaScript.
+  
+4. **Afficher/Masquer un Texte**
+5. **Changer la Taille du Texte**
+6. **Ajouter un Élément à une Liste**
+7. **Changer l'Image d'une Galerie**
+8. **Filtrer une Liste**
+9. **Compter les Caractères**
 
 ## Structure du Projet
 
@@ -26,17 +33,47 @@ Le repository est structuré de la manière suivante :
 ├── Exercice1_Changer_Couleur_Fond
 │   ├── index.html
 │   ├── styles.css
-│   └── script.js
+│   └── starter.js
 │
 ├── Exercice2_Afficher_Message
 │   ├── index.html
 │   ├── styles.css
-│   └── script.js
+│   └── starter.js
 │
 ├── Exercice3_Compteur_Clics
 │   ├── index.html
 │   ├── styles.css
-│   └── script.js
+│   └── starter.js
+│
+├── Exercice4_Afficher_Masquer_Texte
+│   ├── index.html
+│   ├── styles.css
+│   └── starter.js
+│
+├── Exercice5_Changer_Taille_Texte
+│   ├── index.html
+│   ├── styles.css
+│   └── starter.js
+│
+├── Exercice6_Ajouter_Element_Liste
+│   ├── index.html
+│   ├── styles.css
+│   └── starter.js
+│
+├── Exercice7_Changer_Image_Galerie
+│   ├── index.html
+│   ├── styles.css
+│   └── starter.js
+│
+├── Exercice8_Filtrer_Liste
+│   ├── index.html
+│   ├── styles.css
+│   └── starter.js
+│
+├── Exercice9_Compter_Caracteres
+│   ├── index.html
+│   ├── styles.css
+│   └── starter.js
 │
 └── README.md
 ```
