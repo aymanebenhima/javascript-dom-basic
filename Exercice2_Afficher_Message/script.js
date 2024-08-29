@@ -1,5 +1,7 @@
-// Ajouter un écouteur d'événement au bouton pour détecter le clic
-
-// Récupérer la valeur du champ de texte (le nom entré par l'utilisateur)
-
-// Afficher un message de bienvenue personnalisé en utilisant la valeur récupérée
+// Écoutez le clic sur le bouton pour afficher le message de bienvenue
+document.getElementById('showMessageBtn').addEventListener('click', function() {
+    // Récupérez le nom entré par l'utilisateur
+    const name = document.getElementById('nameInput').value;
+    // Affichez un message de bienvenue personnalisé
+    document.getElementById('message').textContent = 'Bienvenue, ' + name + '!';
+});
